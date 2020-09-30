@@ -1,14 +1,13 @@
-* {
-	padding:0em;
-	margin:0;
-	font-size:100%;
-	line-height:1em;}
+* {padding:0em;
+margin:0;
+font-size:100%;
+line-height:1em;}
 
 /*---Images---*/
 
 .logo{width:14%; padding:2% 43% 2% 43%;}
 
-.love-images{padding-left:10%; padding-right:8%;}
+.love-images{padding-left:5%; padding-right:5%;}
 
 .little-love {transition:transform .2s;}
 
@@ -17,7 +16,7 @@
     -webkit-transform:scale(1.1);
     transform:scale(1.1);}
 
-.little-love{width:15em;} 
+.little-love{width:13em;} 
 
 ul {list-style-type:none; margin:0; padding:1em 0em 1em 0em;}
 
@@ -97,11 +96,9 @@ footer{font-family:'Amatic SC',cursive;
 
 .footer li {display:inline; margin:2%;}
 
-#Facebook:hover{color:#4267B2; font-weight:bold;}
-
-#Instagram:hover{color:#C32AA3; font-weight:bold;}
-
-#Pinterest:hover{color:#BD081C; font-weight:bold;}
+#Facebook:hover{color:#4267B2;}
+#Instagram:hover{color:#C32AA3;}
+#Pinterest:hover{color:#BD081C;}
 
 .social-media a{color:#000000; text-decoration:none;}
 
@@ -120,7 +117,6 @@ footer{font-family:'Amatic SC',cursive;
 .little-love{width:12em;} 
 
 footer{font-size:1.3em;}
-
 }
 	
 /*---SMARTPHONE---*/
@@ -134,5 +130,4 @@ footer{font-size:1.3em;}
 .little-love{width:16em;} 
 
 footer{font-size:1em;}
-    
 }
