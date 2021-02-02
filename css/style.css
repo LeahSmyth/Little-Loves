@@ -81,9 +81,9 @@ ul li {display:inline-block; margin:0 1em 1em 0; position:relative;}
 
 .footer-line{width:90%; margin:5% 5% 1% 5%; border:1px solid #FC708E;}
 
-footer{font-family:'Amatic SC',cursive; 
+footer{font-family:'Open Sans',sans-serif; 
         padding:0 0 1% 0; 
-        font-size:1.5em; 
+        font-size:1em; 
         text-align:center; 
         text-decoration:none; 
         color:#000000;}
